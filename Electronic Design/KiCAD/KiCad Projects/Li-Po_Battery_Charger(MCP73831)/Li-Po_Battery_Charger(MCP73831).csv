@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"C";;;
+2;"D1";"LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder";1;"LED";;;
+3;"J1";"USB_Mini-B_Lumberg_2486_01_Horizontal";1;"USB_B_Micro";;;
+4;"J2";"Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical";1;"Conn_01x02";;;
+5;"R1, R2";"R_2010_5025Metric";2;"ERJB1CFR015U";;;
+6;"U1";"SOT95P280X145-5N";1;"MCP73831T-2ACI_OT";;;

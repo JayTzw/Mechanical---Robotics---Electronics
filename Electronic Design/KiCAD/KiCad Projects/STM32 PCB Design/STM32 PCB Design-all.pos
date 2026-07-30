@@ -1,0 +1,41 @@
+### Footprint positions - created on 2026-07-30T01:15:00 ###
+### Printed by KiCad version 10.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref       Val                     Package                                      PosX       PosY       Rot  Side
++3.3V       Conn_01x04              PinHeader_1x04_P2.54mm_Vertical           77.3000   -38.8000    0.0000  top
++3.3V_REG.  AMS1117-3.3             SOT-223-3_TabPin2                        106.1500   -52.7000    0.0000  top
+C1          100n                    C_0402_1005Metric                         91.3200   -34.9000    0.0000  top
+C2          100n                    C_0402_1005Metric                         85.5000   -39.0000  -90.0000  top
+C3          100n                    C_0402_1005Metric                         91.3200   -33.2000    0.0000  top
+C4          100n                    C_0402_1005Metric                         87.1000   -39.0000  -90.0000  top
+C5          100n                    C_0402_1005Metric                         96.9200   -47.6100  180.0000  top
+C6          10n                     C_0402_1005Metric                         85.0200   -45.0000  180.0000  top
+C7          1u                      C_0402_1005Metric                         86.9000   -45.0800  -90.0000  top
+C8          1u                      C_0402_1005Metric                         87.7200   -35.7000    0.0000  top
+C9          10u                     C_0402_1005Metric                         88.5200   -47.2000    0.0000  top
+C12         22u                     C_0805_2012Metric                         82.2500   -38.6000  180.0000  top
+C13         22u                     C_0805_2012Metric                        103.4500   -47.0000    0.0000  top
+C14         10p                     C_0402_1005Metric                         86.7200   -43.2000    0.0000  top
+C15         10p                     C_0402_1005Metric                         87.2000   -40.9500  180.0000  top
+D1          RED                     LED_0603_1608Metric                       85.0125   -49.6000    0.0000  top
+FB1         120R                    L_0603_1608Metric                         85.0125   -47.2000    0.0000  top
+GND         Conn_01x04              PinHeader_1x04_P2.54mm_Vertical           71.0000   -38.8600    0.0000  top
+H1          MountingHole            MountingHole_3mm                          70.2000   -29.9500    0.0000  top
+H2          MountingHole            MountingHole_3mm                         115.2000   -29.9500    0.0000  top
+H3          MountingHole            MountingHole_3mm                         115.2000   -54.9500    0.0000  top
+H4          MountingHole            MountingHole_3mm                          70.2000   -54.9500    0.0000  top
+R1          10k                     R_0402_1005Metric                         93.2000   -33.7000  -90.0000  top
+R2          1.5k                    R_0402_1005Metric                        100.7800   -39.0500   90.0000  top
+R3          1.5k                    R_0402_1005Metric                         82.2600   -49.1200  -90.0000  top
+R4          1.5k                    R_0402_1005Metric                         86.0900   -53.1000  180.0000  top
+R5          1.5k                    R_0402_1005Metric                         86.0900   -55.2000  180.0000  top
+SCL         Conn_01x04              PinHeader_1x04_P2.54mm_Vertical           90.5300   -56.5000   90.0000  top
+SDA         Conn_01x04              PinHeader_1x04_P2.54mm_Vertical           90.5200   -51.1000   90.0000  top
+SWD         Conn_01x04              PinHeader_1x04_P2.54mm_Vertical           97.7200   -31.1000   90.0000  top
+SWT         SW_Wuerth_450301014042  SW_Slide_SPDT_Straight_CK_OS102011MS2Q    81.4600   -31.9000  180.0000  top
+U1          STM32F103C8T6           LQFP-48_7x7mm_P0.5mm                      93.8000   -41.2000    0.0000  top
+UART        Conn_01x02              PinHeader_1x02_P2.54mm_Vertical           92.5000   -29.0000  -90.0000  top
+USB         USB_B_Micro             USB_Mini-B_Lumberg_2486_01_Horizontal    112.3250   -42.6000   90.0000  top
+XSTL        Crystal_GND24           Crystal_SMD_3225-4Pin_3.2x2.5mm           82.9000   -42.3500  180.0000  top
+## End

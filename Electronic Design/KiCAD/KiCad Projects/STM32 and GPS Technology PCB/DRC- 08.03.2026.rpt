@@ -1,0 +1,24 @@
+** Drc report for STM32 and GPS Technology PCB.kicad_pcb **
+** Created on 2026-08-03T23:29:14 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 2 DRC violations **
+[lib_footprint_mismatch]: Footprint 'USB_C_Receptacle_GCT_USB4110' does not match copy in library 'Connector_USB'
+    Local override; warning (excluded)
+    @(171.0000 mm, 44.0000 mm): Footprint J2
+[lib_footprint_mismatch]: Footprint 'U.FL_Hirose_U.FL-R-SMT-1_Vertical' does not match copy in library 'Connector_Coaxial'
+    Local override; warning (excluded)
+    @(144.5250 mm, 78.5000 mm): Footprint U7
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

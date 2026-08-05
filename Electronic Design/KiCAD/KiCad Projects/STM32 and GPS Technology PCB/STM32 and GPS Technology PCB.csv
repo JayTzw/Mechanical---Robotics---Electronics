@@ -1,0 +1,22 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Exclude from Simulation,Exclude from Position Files,Footprint,Datasheet
+"C1,C2,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22",21,C,,,,,${EXCLUDE_FROM_POS_FILES},,
+C3,1,C_Polarized,,,,,${EXCLUDE_FROM_POS_FILES},,
+D1,1,D_Schottky,,,,,${EXCLUDE_FROM_POS_FILES},,
+"D2,D3,D4",3,LED,,,,,${EXCLUDE_FROM_POS_FILES},,
+D5,1,D_Zener,,,,,${EXCLUDE_FROM_POS_FILES},,
+F1,1,Fuse,,,,,${EXCLUDE_FROM_POS_FILES},,
+FB1,1,FerriteBead,,,,,${EXCLUDE_FROM_POS_FILES},,
+J1,1,Barrel_Jack_MountingPin,,,,,${EXCLUDE_FROM_POS_FILES},Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal,
+J2,1,USB4110GFA,,,,,${EXCLUDE_FROM_POS_FILES},Connector_USB:USB_C_Receptacle_GCT_USB4110,
+"J3,J4",2,Conn_01x08,,,,,${EXCLUDE_FROM_POS_FILES},,
+J5,1,693010020611,,,,,${EXCLUDE_FROM_POS_FILES},693010020611:693010020611,
+L1,1,L_Iron,,,,,${EXCLUDE_FROM_POS_FILES},,
+Q2,1,AO3407A,,,,,${EXCLUDE_FROM_POS_FILES},Package_TO_SOT_SMD:SOT-23-3,
+"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15",15,R,,,,,${EXCLUDE_FROM_POS_FILES},,
+"SW2,SW3",2,SW_Push,,,,,${EXCLUDE_FROM_POS_FILES},,
+U1,1,SIM808,,,,,${EXCLUDE_FROM_POS_FILES},SIM808:XCVR_SIM808,
+U2,1,STM32F030C8Tx,,,,,${EXCLUDE_FROM_POS_FILES},Package_QFP:LQFP-48_7x7mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32f030c8.pdf
+U3,1,TPS5430DDA,,,,,${EXCLUDE_FROM_POS_FILES},Package_SO:TI_SO-PowerPAD-8_ThermalVias,http://www.ti.com/lit/ds/symlink/tps5430.pdf
+"U5,U7",2,U.FL-R-SMT-1_60_,,,,,${EXCLUDE_FROM_POS_FILES},Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical,
+U6,1,SMF05CT1G,,,,,${EXCLUDE_FROM_POS_FILES},Package_TO_SOT_SMD:SOT-363_SC-70-6,
+Y1,1,Crystal_GND2,,,,,${EXCLUDE_FROM_POS_FILES},,
